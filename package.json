@@ -1,0 +1,29 @@
+{
+    "name": "puppeteer_project",
+    "version": "1.0.0",
+    "description": "Extration of Data from WEB",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon ./bin/www"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcovicar/puppeteer_project.git"
+    },
+    "keywords": [
+        "puppeteer"
+    ],
+    "author": "marcovicar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marcovicar/puppeteer_project/issues"
+    },
+    "homepage": "https://github.com/marcovicar/puppeteer_project#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    },
+    "dependencies": {
+        "puppeteer": "^18.0.5"
+    }
+}

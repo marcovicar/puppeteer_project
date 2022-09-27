@@ -27,5 +27,4 @@ const puppeteer = require('puppeteer');
 
     return console.log(urlsEscPublica);
 
-
 })();
